@@ -9,12 +9,12 @@ SQL-based financial transaction analysis project using PostgreSQL. Includes data
 
 - Transaction Volume -
 
-Business question — 
+Business question -
 
-SQL techniques — 
+SQL techniques - 
 
-Result — 
+Result -
 
-Business interpretation — 
+Business interpretation - 
 
 
